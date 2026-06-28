@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan Grocery Discount Finder",
+  "description": "Live search and discovery for grocery discounts, bank card deals, and store promotions across Pakistani physical and online retailers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
